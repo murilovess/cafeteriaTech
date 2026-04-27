@@ -8,13 +8,18 @@ Funcionalidades
   Cálculo automático do valor total do pedido
   Desconto progressivo:
   10% para compras acima de R$150
+  
   5% para compras entre R$50 e R$150
+  
   Promoção de cookies:
+  
   Mais de 3 unidades: R$10 cada
   Até 3 unidades: R$12 cada
   Opção de doação de 2% do valor do pedido
   Registro de múltiplos pedidos
+  
   Estatísticas finais:
+  
   Total arrecadado
   Quantidade de pedidos
   Quantidade de capuccinos vendidos
