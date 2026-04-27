@@ -7,9 +7,7 @@ Funcionalidades
   Seleção de produtos por código
   Cálculo automático do valor total do pedido
   Desconto progressivo:
-  10% para compras acima de R$150
-  
-  5% para compras entre R$50 e R$150
+  10% para compras acima de R$150 e 5% para compras entre R$50 e R$150
   
   Promoção de cookies:
   
