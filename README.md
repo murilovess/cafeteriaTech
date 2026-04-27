@@ -12,8 +12,11 @@ Funcionalidades
   Promoção de cookies:
   
   Mais de 3 unidades: R$10 cada
+  
   Até 3 unidades: R$12 cada
+  
   Opção de doação de 2% do valor do pedido
+  
   Registro de múltiplos pedidos
   
   Estatísticas finais:
